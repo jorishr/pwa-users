@@ -1,8 +1,8 @@
-# basic users pwa
+# pwa-users
 
-Progressive web app in vanilla js with Google Workbox. The app fetches and presents 10 users from the placeholder API.
+Basic progressive web app with Google Workbox that fetches user data form the placeholder API.
 
 # features
-
-- The fetched data is cached
-- Google font is cached
+- fetched data is cached for offline use
+- google font is cached for offline use
+- app can be installed locally with icon
